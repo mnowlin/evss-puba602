@@ -7,40 +7,98 @@ layout: default
 # Course Schedule and Readings Fall 2015
 __SUBJECT TO CHANGE__. All changes will be announced in class.
 
-__READINGS SHOULD BE DONE PRIOR TO CLASS__. 
+For most weeks, readings will be categorized as core readings, discussion readings, and suggested readings. _For the journal articles click on the link to be taken to the website for the article. Note that to be able to download the article from the link you need to be connected to the internet on campus or, if off campus, you need to search for the journal article at the [library website](http://www.cofc.edu/library/)._ Additional readings will also be available on OAKS. 
 
-__ALL ASSIGNMENTS AND QUIZZES ARE DUE BY 11:59pm ON THE DUE DATE, UNLESS OTHERWISE NOTED__. 
+* __Core Readings (Required)__: The core readings detail theoretical concepts and will be covered by lecture.
 
-__KW__: Kellstedt, Paul M. and Guy D. Whitten. 2013. _The Fundamentals of Political Science Research_. Cambridge University Press. 2nd Ed.
+* __Discussion Readings (Required)__: The discussion readings
+  are largely applications of theoretical concepts. They will be
+  covered through class discussion, lead by assigned discussion
+  leaders.
+  
+* __Suggested Readings (Not Required)__: Suggested readings
+  are additional readings that could help clarify some concepts. They
+  are also useful places to start for the research design. 
+
+### Books 
+__Birkland__: Birkland, Thomas A. 2011. _An Introduction to the Policy Process: Theories, Concepts, and Models of Public Policy Making_. M.E. Sharpe. 3rd Edition
+
+__SW__: Sabatier, Paul and Christopher Weible (eds). 2014. _Theories of the Policy Process_. Westview Press. 3rd Edition.
+
+__Bertelli__: Bertelli, Anthony Micheal. 2012. _The Political Economy of Public Sector Governance_. Cambridge. 
 
 ---
 
-* August 25th:  __Course Introduction and Political Science Research__
-    * _Readings_: 
-        * Johnson and Reynolds Chap 1 on [OAKS](https://lms.cofc.edu/)
+### August 25th: Introduction and Course Overview
+
+-  _Core Readings_:
+    * Birkland Chap 1
+    * SW Chap 1 
+
+-  _Suggested Readings_: 
+    * deLeon, Peter. 2006. _The Historical Roots of the Field_. In The
+    Oxford Handbook of Public Policy, edited by Michael Moran, Martin
+    Rein, and Robert E. Goodin, 39–57. Oxford: Oxford University Press on [OAKS](https://lms.cofc.edu/)
 
 ---
 
-* September 1st: __Political Science?__ 
-    * _Readings_:
-        * Rosenberg Chap 2 on [OAKS](https://lms.cofc.edu/)
-        * KW Chap 1
-        * __Quiz 1 due September 2nd__ on [OAKS](https://lms.cofc.edu/)
+### September 1st: Policy Process Theory
+
+-  _Core Readings_:
+    * Birkland Chap 2 
+    * Birkland Chap 7 
+    * Birkland Chap 10 
+
+-  _Discussion Readings_: 
+    * deLeon, Peter. 1999. _The Stages Approach to the Policy Process:
+    What Has It Done? Where Is It Going?_ In Theories of the Policy
+    Process, edited by Paul Sabatier, 19–32. Boulder, CO: Westview on [OAKS](https://lms.cofc.edu/)
+    * Sabatier, Paul A. 2007. _The Need for Better Theories._ In Theories
+    of the Policy Process, 2nd ed., 3–17. Boulder, CO: Westview Press on [OAKS](https://lms.cofc.edu/)
+
+-  _Suggested Readings_: 
+    * Fischer, Frank. 1998. ["Beyond Empiricism: Policy Inquiry in
+    Post-positivist Perspective."]() _Policy Studies Journal_ 26 (1): 129–46.
 
 ---
 
-* September 8th: __Theory Building and Hypothesis Testing__
-    * _Readings_:
-        * KW Chap 2
-        * __Quiz 2 due September 7th__ on [OAKS](https://lms.cofc.edu/)
+### September 8th: Institutions and Institutional Rational Choice
+
+-  _Core Readings_: 
+    * Birkland Chap 3
+    * Birkland Chap 4 
+    * Shepsle, Kenneth A., and Mark S. Bonchek. 1997. Analyzing Politics:
+    Rationality, Behavior, and Institutions. New York, NY: W. W. Norton
+    and Company. *pgs. 299–311; 345–379* on [OAKS](https://lms.cofc.edu/)
+
+<span>***Discussion Paper Due***</span>
         
 ---
 
-* September 15th: __Research Question and Literature Review__
-    * Library visit 
-    * _Readings_:
-        * Johnson and Reynolds Chap 3 on [OAKS](https://lms.cofc.edu/)
-        * __Homework 1 due September 17th__. _Due before class in the dropbox on [OAKS](https://lms.cofc.edu/)_.
+### September 15th: Institutional Analysis and Development Framework
+
+-  _Core Readings_:
+    * SW: Chapter 8 by Ostrom et al
+
+-  _Discussion Readings_:
+    * Imperial, Mark T., and Tracy Yandle. 2005. ["Taking Institutions
+    Seriously: Using the IAD Framework to Analyze Fisheries Policy."]()
+    _Society and Natural Resources 18_ (6): 493–509.
+    * Schlager, Edella, and Tanya Heikkila. 2011. ["Left High and Dry?
+    Climate Change, Common-Pool Resource Theory, and the Adaptability of
+    Western Water Compacts."]() _Public Administration Review_ 71 (3):
+    461–70.
+    * Arnold, Gwen, and Forrest D. Fleischman. 2013. ["The Influence of
+    Organizations and Institutions on Wetland Policy Stability: The
+    Rapanos Case."]() _Policy Studies Journal_ 41 (2): 343–64.
+
+<span>***Discussion Paper Due***</span>\
+<span>***Discussion Leaders***</span>
+
+-  _Suggested Readings_: 
+    * McGinnis, Michael D. 2011. ["An Introduction to IAD and the Language
+    of the Ostrom Workshop: A Simple Guide to a Complex Framework."]()
+    _Policy Studies Journal_ 39 (1): 169–83.
 
 ---
 
