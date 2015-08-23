@@ -133,6 +133,7 @@ There are 900 possible points for this course. Grades will be allocated
 based on your earned points and calculated as a percentage of 900.
 
   Letter Grade | Percentage 
+  --- | --- 
   A  |  90 to 100%
   B+ |  87 to 89%
   B  |  80 to 86%
@@ -150,13 +151,13 @@ end of class. You are allowed to miss one class without penalty. The
 penalties for missing 2 or more classes are as follows (in addition to
 the loss of participation points):
 
-   Absences  Penalty
-  ---------- ------------------------------
-      1      None
-      2      20 points
-      3      30 points (50 points total)
-      4      40 points (90 points total)
-      5      50 points (140 points total)
+   Absences | Penalty
+   --- | ---
+      1   |   None
+      2   |   20 points
+      3   |   30 points (50 points total)
+      4   |   40 points (90 points total)
+      5   |   50 points (140 points total)
 
 
 Students are expected to participate in the course by
