@@ -128,17 +128,17 @@ discussion papers, being a discussion leader, a research design, a book review, 
 | --- | --- |
 |  Total                     | 900 points (100%) |
 
+
 There are 900 possible points for this course. Grades will be allocated
 based on your earned points and calculated as a percentage of 900.
 
-  ---- ---------------
-  A    90 to 100%
-  B+   86 to 89%
-  B    80 to 85%
-  C+   76 to 79%
-  C    70 to 75%
-  F    69% and below
-  ---- ---------------
+  Letter Grade | Percentage 
+  A  |  90 to 100%
+  B+ |  87 to 89%
+  B  |  80 to 86%
+  C+ |  77 to 79%
+  C  |  70 to 76%
+  F  |  69% and below
 
 ## Attendance and Participation 
 
