@@ -35,15 +35,10 @@ __Bertelli__: Bertelli, Anthony Micheal. 2012. _The Political Economy of Public 
 
 ### August 25th: Introduction and Course Overview
 
--  _Core Readings_:
-    * Birkland Chap 1
-    * SW Chap 1 
-
 -  _Suggested Readings_:
     * [Defining policy shows how messed up it seems](https://paulcairney.wordpress.com/2014/01/08/defining-policy-shows-how-messed-up-it-seems/)
-    * deLeon, Peter. 2006. _The Historical Roots of the Field_. In The
-    Oxford Handbook of Public Policy, edited by Michael Moran, Martin
-    Rein, and Robert E. Goodin, 39–57. Oxford: Oxford University Press on [OAKS](https://lms.cofc.edu/)
+    * Birkland Chap 1
+    * SW Chap 1 
 
 ---
 
@@ -69,8 +64,6 @@ __Bertelli__: Bertelli, Anthony Micheal. 2012. _The Political Economy of Public 
 -  _Suggested Readings_:
     * [The Policy Cycle and its Stages](https://paulcairney.wordpress.com/2013/11/11/policy-concepts-in-1000-words-the-policy-cycle-and-its-stages/)
     * [Bounded Rationality and Incrementalism](https://paulcairney.wordpress.com/2013/11/11/policy-concepts-in-1000-words-bounded-rationality-and-incrementalism/)
-    * Fischer, Frank. 1998. [Beyond Empiricism: Policy Inquiry in
-    Post-positivist Perspective.]() _Policy Studies Journal_ 26 (1): 129–46.
 
 ---
 
