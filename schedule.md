@@ -7,6 +7,8 @@ layout: default
 # Course Schedule and Readings Fall 2015
 __SUBJECT TO CHANGE__. All changes will be announced in class.
 
+__READINGS SHOULD BE READ IN THE ORDER LISTED__ 
+
 For most weeks, readings will be categorized as core readings, discussion readings, and suggested readings. _For the journal articles click on the link to be taken to the website for the article. Note that to be able to download the article from the link you need to be connected to the internet on campus or, if off campus, you need to search for the journal article at the [library website](http://www.cofc.edu/library/)._ Additional readings will also be available on OAKS. 
 
 * __Core Readings (Required)__: The core readings detail theoretical concepts and will be covered by lecture.
@@ -19,6 +21,8 @@ For most weeks, readings will be categorized as core readings, discussion readin
 * __Suggested Readings (Not Required)__: Suggested readings
   are additional readings that could help clarify some concepts. They
   are also useful places to start for the research design. 
+
+I will also provide links to Professor Paul Cairney's series of essays on [key policy theories and concepts in 1000 words](https://paulcairney.wordpress.com/1000-words/). These are __STRONGLY__ recommended. 
 
 ### Books 
 __Birkland__: Birkland, Thomas A. 2011. _An Introduction to the Policy Process: Theories, Concepts, and Models of Public Policy Making_. M.E. Sharpe. 3rd Edition
@@ -35,7 +39,8 @@ __Bertelli__: Bertelli, Anthony Micheal. 2012. _The Political Economy of Public 
     * Birkland Chap 1
     * SW Chap 1 
 
--  _Suggested Readings_: 
+-  _Suggested Readings_:
+    * [Defining policy shows how messed up it seems](https://paulcairney.wordpress.com/2014/01/08/defining-policy-shows-how-messed-up-it-seems/)
     * deLeon, Peter. 2006. _The Historical Roots of the Field_. In The
     Oxford Handbook of Public Policy, edited by Michael Moran, Martin
     Rein, and Robert E. Goodin, 39–57. Oxford: Oxford University Press on [OAKS](https://lms.cofc.edu/)
@@ -45,9 +50,12 @@ __Bertelli__: Bertelli, Anthony Micheal. 2012. _The Political Economy of Public 
 ### September 1st: Policy Process Theory
 
 -  _Core Readings_:
-    * Birkland Chap 2 
-    * Birkland Chap 7 
-    * Birkland Chap 10 
+    * Thomas Dye: _Models of Politics_ on [OAKS](https://lms.cofc.edu/)
+    * _Carefully skim_ 
+        * Birkland Chap 2 
+        * Birkland Chap 7 
+        * Birkland Chap 10 
+    * Paul Cairney: _Rationality and Incrementalism_ on [OAKS](https://lms.cofc.edu/)
 
 -  _Discussion Readings_: 
     * deLeon, Peter. 1999. _The Stages Approach to the Policy Process:
@@ -56,7 +64,11 @@ __Bertelli__: Bertelli, Anthony Micheal. 2012. _The Political Economy of Public 
     * Sabatier, Paul A. 2007. _The Need for Better Theories._ In Theories
     of the Policy Process, 2nd ed., 3–17. Boulder, CO: Westview Press on [OAKS](https://lms.cofc.edu/)
 
--  _Suggested Readings_: 
+<span>***Discussion Paper Due***</span>
+
+-  _Suggested Readings_:
+    * [The Policy Cycle and its Stages](https://paulcairney.wordpress.com/2013/11/11/policy-concepts-in-1000-words-the-policy-cycle-and-its-stages/)
+    * [Bounded Rationality and Incrementalism](https://paulcairney.wordpress.com/2013/11/11/policy-concepts-in-1000-words-bounded-rationality-and-incrementalism/)
     * Fischer, Frank. 1998. [Beyond Empiricism: Policy Inquiry in
     Post-positivist Perspective.]() _Policy Studies Journal_ 26 (1): 129–46.
 
@@ -72,7 +84,10 @@ __Bertelli__: Bertelli, Anthony Micheal. 2012. _The Political Economy of Public 
     and Company. *pgs. 299–311; 345–379* on [OAKS](https://lms.cofc.edu/)
 
 <span>***Discussion Paper Due***</span>
-        
+
+-   _Suggested Readings_:
+    * [Institutions and New Institutionalism](https://paulcairney.wordpress.com/2014/03/28/policy-concepts-in-1000-words-institutions-and-new-institutionalism/)
+
 ---
 
 ### September 15th: Institutional Analysis and Development Framework
@@ -96,6 +111,7 @@ __Bertelli__: Bertelli, Anthony Micheal. 2012. _The Political Economy of Public 
 <span>***Discussion Leaders***</span>
 
 -  _Suggested Readings_: 
+    * [Rational Choice and the IAD](https://paulcairney.wordpress.com/2014/04/10/policy-concepts-in-1000-words-rational-choice-and-the-iad/)
     * McGinnis, Michael D. 2011. [An Introduction to IAD and the Language
     of the Ostrom Workshop: A Simple Guide to a Complex Framework.]()
     _Policy Studies Journal_ 39 (1): 169–83.
@@ -121,94 +137,207 @@ __Bertelli__: Bertelli, Anthony Micheal. 2012. _The Political Economy of Public 
 <span>***Discussion Paper Due***</span>\
 <span>***Discussion Leaders***</span>
 
--  _Suggested Readings_: 
+-  _Suggested Readings_:
+    * [Multiple Streams Analysis](https://paulcairney.wordpress.com/2013/10/31/policy-concepts-in-1000-words-multiple-streams-analysis/)
     * Cohen, Michael D., James G. March, and Johan P. Olsen. 1972. [A
     Garbage Can Model of Organizational Choice.]() _Administrative Science
     Quarterly_ 17 (1): 1–25.
 
 ---
 
-* September 29th: __Research Design and Data__
-    * _Readings_:
-        * Silverman Chap 2 on [OAKS](https://lms.cofc.edu/)
-        * [A Tale of Two Cultures: Contrasting Quantitative and
-Qualitative Research](http://public.wsu.edu/~tnridout/mahoney_goertz20061.pdf)
-        * __Homework 2 due October 1st__. _Due before class in the dropbox on [OAKS](https://lms.cofc.edu/)_.
+### September 29th: Advocacy Coalition Framework
+
+-  _Core Readings_: 
+    * Birkland Chap 5
+    * SW Chap 6 by Jenkins-Smith et al
+
+-  _Discussion Readings_: 
+    * Ellison, Brian A. 1998. [The Advocacy Coalition Framework and
+    Implementation of the Endangered Species Act: A Case Study in
+    Western Water Politics.]() _Policy Studies Journal_ 26 (1): 11–29.
+    * Nicholson-Crotty, Sean. 2005. [Bureaucratic Competition in the
+    Policy Process.]() _Policy Studies Journal_ 33 (3): 341–61.
+    * Weible, Christopher M. 2007. [An Advocacy Coalition Framework
+    Approach to Stakeholder Analysis: Understanding the Political
+    Context of California Marine Protected Area Policy.]() _Journal of
+    Public Administration Research and Theory_ 17 (1): 95–117.
+
+<span>***Discussion Paper Due***</span>\
+<span>***Discussion Leaders***</span>
+
+-  _Suggested Readings_:
+    * [Networks, sub-government and communities](https://paulcairney.wordpress.com/2014/03/25/policy-concepts-in-1000-words-networks-sub-government-and-communities/)
+    * [The Advocacy Coalition Framework](https://paulcairney.wordpress.com/2013/10/30/policy-concepts-in-1000-words-the-advocacy-coalition-framework/)
+    * Weible, Christopher M., Paul A. Sabatier, and Kelly McQueen. 2009.
+    [Themes and Variations: Taking Stock of the Advocacy Coalition
+    Framework.]() _Policy Studies Journal_ 37 (1): 121–140.
 
 ---
 
-* October 6th: __Quantitative Data and Analysis__ 
-    * Introduction to _R_
-    * _Readings_:
-        * KW Chap 5
-        * __Quiz 5 due October 5th__ on [OAKS](https://lms.cofc.edu/)
+### October 6th: Punctuated Equilibrium 
+
+*  _Core Readings_: 
+    * SW: Chap 3 by Baumgartner et al
+
+*   _Discussion Readings_:
+    * Baumgartner, Frank R., and Bryan D. Jones. 1991. [Agenda Dynamics
+    and Policy Subsystems.]() _The Journal of Politics_ 53 (4): 1044–1074.
+    * Worsham, Jeffrey. 2006. [Up in Smoke: Mapping Subsystem Dynamics in
+    Tobacco Policy.]() _Policy Studies Journal_ 34 (3): 437–52.
+    * Robinson, Scott E., Carla M. Flink, and Chad M. King. 2014.
+    [Organizational History and Budgetary Punctuation.]() _Journal of
+    Public Administration Research and Theory_ 24 (2): 459–71.
+
+<span>***Discussion Paper Due***</span>\
+<span>***Discussion Leaders***</span>
+
+*  _Suggested Readings_:
+    * [Punctuated Equilibrium Theory](https://paulcairney.wordpress.com/2013/10/29/policy-concepts-in-1000-words-punctuated-equilibrium-theory/)
+    * Workman, Samuel, Bryan D. Jones, and Ashley E. Jochim. 2009.
+    [Information Processing and Policy Dynamics.] _Policy Studies Journal_
+    37 (1): 75–92.
 
 ---
 
-* October 13th: __Probability and Statistical Inference__
-    * _Readings_:
-        * KW Chap 6
-        * __Quiz 6 due October 13th__ on [OAKS](https://lms.cofc.edu/)
-        * __R Lab 1 October 15th__ 
+### October 13th: Narrative Policy Framework 
+
+*   _Core Readings_: 
+    * SW: Chap 7 by McBeth et al
+
+*   _Discussion Readings_:
+    * Shanahan, Elizabeth A., Michael D. Jones, and Mark K. McBeth. 2011.
+    [Policy Narratives and Policy Processes.]() _Policy Studies Journal_ 39
+    (3): 535–561.
+    * McBeth, Mark K., Elizabeth A. Shanahan, Molly C. Arrandale Anderson,
+    and Barbara Rose. 2012. [Policy Story or Gory Story? Narrative
+    Policy Framework Analysis of Buffalo Field Campaign’s YouTube
+    Videos.]() _Policy and Internet_ 4 (3-4): 159–183.
+    * Jones, Michael D. 2014. [Cultural Characters and Climate Change: How
+    Heroes Shape Our Perception of Climate Science.]() _Social
+    Science Quarterly_ 95 (1): 1–39.
+
+<span>***Discussion Paper Due***</span>\
+<span>***Discussion Leaders***</span>
+
+*   _Suggested Readings_:
+    * [Critical Policy Studies and the Narrative Policy Framework](https://paulcairney.wordpress.com/2015/03/06/policy-concepts-in-1000-words-critical-policy-studies-and-the-narrative-policy-framework/)
+    * Jones, Michael D., and Mark K. McBeth. 2010. [A Narrative Policy
+    Framework: Clear Enough to Be Wrong?]() _Policy Studies Journal_ 38 (2):
+    329–353.
+
+---
+
+### October 20th: FALL BREAK No class 
         
 ---
 
-* October 20th: 
-    * __FALL BREAK: No class October 20th__
-        * __Introduction and Literature Review due October 22nd__. _Due before class in the dropbox on [OAKS](https://lms.cofc.edu/)_.
-    * Data Sources 
-        
----
+### October 27th: Policy Diffusion 
 
-* October 27th: __Association of Variables__
-    * _Readings_:
-        * KW Chap 7
-        * __Quiz 7 due October 26th__ on [OAKS](https://lms.cofc.edu/)
-    * __R Lab 2 October 29th__ 
-    * __Homework 3 due November 3rd__. _Due before class in the dropbox on [OAKS](https://lms.cofc.edu/)_.
+*   _Core Readings_: 
+    * SW: Chap 9, by Berry and Berry
 
----
+*   _Discussion Readings_: 
+    * Matisoff, Daniel C. 2008. [The Adoption of State Climate Change
+    Policies and Renewable Portfolio Standards: Regional Diffusion or
+    Internal Determinants?]() _Review of Policy Research_ 25 (6): 527–546.
+    * Nicholson-Crotty, Sean. 2009. [The Politics of Diffusion: Public
+    Policy in the American States.]() _The Journal of Politics_ 71 (01):
+    192–205.
+    * Boushey, Graeme. 2012. [Punctuated Equilibrium Theory and the
+    Diffusion of Innovations.]() _Policy Studies Journal_ 40 (1): 127–146.
 
-* November 3rd: __Simple Regression__
-    * _Readings_:
-        * KW Chap 8
-        * __Quiz 8 due November 2nd__ on [OAKS](https://lms.cofc.edu/)
-    * __R Lab 3 November 5th__ 
-        
----
+<span>***Discussion Paper Due***</span>\
+<span>***Discussion Leaders***</span>
 
-* November 10th:  __Multiple Regression I__
-    * _Readings_:
-        * KW Chap 9
-        * __Quiz 9 due November 9th__ on [OAKS](https://lms.cofc.edu/)
-    * __In-Class Workshop November 12th__ 
+*   _Suggested Readings_:
+    * [Policy Transfer and Learning](https://paulcairney.wordpress.com/2013/11/11/policy-concepts-in-1000-words-policy-transfer-and-learning/)
+    * Shipan, Charles R., and Craig Volden. 2012. [Policy Diffusion: Seven
+    Lessons for Scholars and Practitioners.]() _Public Administration
+    Review_ 72 (6): 788–796.
 
 ---
 
-* November 17th: __Multiple Regression II__ 
-    * _Readings_:
-        * KW Chap 10
-        * __Quiz 10 due November 16th__ on [OAKS](https://lms.cofc.edu/)
-        * __R Lab 4 November 19th__
+### November 3rd: Policy Design and Social Construction 
+
+*   _Core Readings_: 
+    * Birkland: Chap 8 
+    * SW: Chap 4 by Schneider et al
+
+*   _Discussion Readings_:
+    * Nicholson-Crotty, Jill, and Sean Nicholson-Crotty. 2004. [Social
+    Construction and Policy Implementation: Inmate Health as a Public
+    Health Issue.]() _Social Science Quarterly_ 85(2): 240–256.
+    * Schneider, Anne. 2006. [Patterns of Change in the Use of Imprisonment in the American States: An Integration of Path Dependence, Punctuated Equilibrium and Policy Design Approaches.]() _Political Research Quarterly_ 59(3): 457-470
+    * Reich, Gary, and Jay Barth. 2010. [Educating Citizens or Defying
+    Federal Authority? A Comparative Study of In-State Tuition for
+    Undocumented Students.]() _Policy Studies Journal_ 38(3): 419–445.
+
+<span>***Discussion Paper Due***</span>\
+<span>***Discussion Leaders***</span>
+
+*  _Suggested Readings_:
+    * [Power and Ideas](https://paulcairney.wordpress.com/2013/11/01/policy-concepts-in-1000-words-power-and-ideas/)
+    * Pierce, Jonathan J., Saba Siddiki, Michael D. Jones, Kristin Schumacher, Andrew Pattison, and Holly Peterson. 2014. [Social Construction and Policy Design: A Review of Past Applications.]() _Policy Studies Journal_ 42(1): 1–29.
 
 ---
 
-* November 24th: __Research Designs Due__
-    * Discuss Research Designs and Data Analysis Project
-    * __Thanksgiving Break: Nov 25th--29th__
+### November 10th: Policy Analysis and Evaluation
+
+*   _Core Readings_: 
+    * Smith and Larimer: Chap 5 on [OAKS](https://lms.cofc.edu/)
+    * Smith and Larimer: Chap 6 on [OAKS](https://lms.cofc.edu/)
+
+*   _Discussion Readings_:
+    * Carlson, Deven, Robert Haveman, Thomas Kaplan, and Barbara Wolfe.
+    2011. [The Benefits and Costs of the Section 8 Housing Subsidy
+    Program: A Framework and Estimates of First-Year Effects.]() _Journal
+    of Policy Analysis and Management_ 30(2): 233–255.
+    * Courtemanche, Charles J., and Daniela Zapata. 2013. [Does Universal
+    Coverage Improve Health? The Massachusetts Experience.]() _Journal of
+    Policy Analysis and Management_ 
+    * Shulock, Nancy. 1999. [The Paradox of Policy Analysis: If It Is Not
+    Used, Why Do We Produce So Much of It?]() _Journal of Policy Analysis
+    and Management_ 18(2): 226–244.
+
+<span>***Discussion Paper Due***</span>\
+<span>***Discussion Leaders***</span>
+
+*  _Suggested Readings_:
+   * [‘Evidence Based Policymaking’](https://paulcairney.wordpress.com/2013/11/23/why-is-evidence-based-policymaking-criticised-by-policy-scholars/)
+   * [Success and Failure (Evaluation)](https://paulcairney.wordpress.com/2013/12/21/policy-concepts-in-1000-words-success-and-failure-evaluation/)
+   
+---
+
+### November 17th: Policy Implementation and Governance I
+
+*   _Core Readings_: 
+    * Birkland: Chap 9
+    * Bertelli: Chaps 1 and 2 
+
+__Book Review part 1 due__ 
 
 ---
 
-* December 1st: __Putting It All Together__
-    * __Homework 4 due December 4th__ 
-    * Review for final
-    * __Data Analysis Project due December 7th__ 
-    
+### November 24th: Policy Implementation and Governance II
+
+*   _Core Readings_: 
+    * Bertelli: Chaps 3--6 
+
+__Book Review part 2 due__ 
+
 ---
 
-* __FINAL EXAM__
-    * Section 01 Thursday December 10th 12pm to 3pm
-    * Section 02 Tuesday December 14th 12pm to 3pm
+### Thanksgiving Break: Nov 25th--29th
+
+---
+
+### December 1st: Conclusion 
+
+*   _Core Readings_: 
+    * SW: Chap 11
+    * Weible, Christopher M., Tanya Heikkila, Peter deLeon, and Paul A.
+    Sabatier. 2012. [Understanding and Influencing the Policy Process.]()
+    _Policy Sciences_ 45(1): 1–21.
 
 --- 
 
