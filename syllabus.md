@@ -31,7 +31,7 @@ confront or avoid opportunities to develop and implement solutions. The
 implications of these complexities for public employees and public
 management are emphasized.
 
-Learning Outcomes {#learning-outcomes .unnumbered}
+Learning Outcomes 
 -----------------
 
 The Masters of Public Administration accrediting body, the Network of
@@ -77,7 +77,7 @@ readings; by actively participating in and leading in-class discussions;
 and by completing a research design applying one of the major frameworks
 to a particular substantive policy area.
 
-Required Texts: {#required-texts .unnumbered}
+Required Texts: 
 ===============
 
 The following texts are required and additional readings will be
@@ -91,7 +91,7 @@ Policy Process*. 3rd Edition. Westview Press.
 Bertelli, Anthony Micheal. 2012. _The Political Economy of Public Sector Governance_. Cambridge. 
 
 
-Additional Readings {#additional-readings .unnumbered}
+Additional Readings 
 -------------------
 
 For most weeks, readings will be categorized as core readings,
@@ -111,21 +111,22 @@ discussion readings, and suggested readings.
 The reading assignments and links to the readings on are the [schedule](http://matthewcnowlin.com/evss-puba602/schedule.html) portion of the [course website](http://matthewcnowlin.com/evss-puba602/index.html)
 
 
-Course Requirements and Grading: {#course-requirements-and-grading .unnumbered}
+Course Requirements and Grading: 
 ================================
 
 Performance in this course will be evaluated on the basis of 10
-discussion papers, being a discussion leader, a research design, a book review, and class participation. Points will be distributed as
-follows:
+discussion papers, being a discussion leader, a research design, a book review, and class participation. Points will be distributed as follows:
 
+Assignment                  | Points
   -------------------------- -----------------------------------
-  10 Discussion Papers       20 points each (200 points) (22%)
-  Discussion Leader          100 points (11%)
-  Research Design Proposal   50 points (6%)
-  Research Design            250 points (28%)
-  Book Review                200 points (22%)
-  Attendance/Participation   100 points (11%)
-  Total                      900 points (100%)
+  10 Discussion Papers      | 20 points each (200 points) (22%)
+  Discussion Leader         | 100 points (11%)
+  Research Design Proposal  | 50 points (6%)
+  Research Design           | 250 points (28%)
+  Book Review               | 200 points (22%)
+  Attendance/Participation  | 100 points (11%)
+  --------------------------------------------------------------
+  Total                     | 900 points (100%)
   -------------------------- -----------------------------------
 
 There are 900 possible points for this course. Grades will be allocated
@@ -140,8 +141,7 @@ based on your earned points and calculated as a percentage of 900.
   F    69% and below
   ---- ---------------
 
-## Attendance and Participation {#attendance .unnumbered}
-
+## Attendance and Participation 
 
 Attendance is expected and mandatory for this course. Attendance will be
 taken by the participation statements you turn in at the end of each
@@ -165,7 +165,7 @@ asking questions, providing thoughtful comments, and through making
 contributions to the discussion portion of class. **Class discussion
 should be better than it would have been had you not attended.** Note that the professor has final say over what does or does not count as adequate participation.
 
-Students with Disabilities: {#students-with-disabilities .unnumbered}
+Students with Disabilities: 
 ===========================
 
 The College will make reasonable accommodations for persons with
@@ -175,7 +175,7 @@ Suite 104. Students approved for accommodations are responsible for
 notifying me as soon as possible and for contacting me at least one week
 before any accommodation is needed.
 
-Cheating or Plagiarism: {#cheating-or-plagiarism .unnumbered}
+Cheating or Plagiarism: 
 =======================
 
 A grade of zero will be given to anyone cheating on any exam, homework
@@ -194,7 +194,7 @@ using a phrase, a distinctive idea, concept or sentence from another
 source to reference that source in your text, a footnote, or end-note.
 Please contact me if you need assistance in citing a source.
 
-Religious Holiday Policy: {#religious-holiday-policy .unnumbered}
+Religious Holiday Policy: 
 =========================
 
 It is the policy of the College to excuse absences of students that
