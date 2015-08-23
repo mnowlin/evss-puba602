@@ -13,4 +13,4 @@ dropbox on [OAKS](https://lms.cofc.edu/).
 
 Here is the rubric that will be used:
 
-![](paper_rubric.png)
+![Grading Rubric for Discussion Papers](paper_rubric.png)
