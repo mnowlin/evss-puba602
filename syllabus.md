@@ -117,17 +117,16 @@ Course Requirements and Grading:
 Performance in this course will be evaluated on the basis of 10
 discussion papers, being a discussion leader, a research design, a book review, and class participation. Points will be distributed as follows:
 
-Assignment                  | Points
-  -------------------------- -----------------------------------
-  10 Discussion Papers      | 20 points each (200 points) (22%)
-  Discussion Leader         | 100 points (11%)
-  Research Design Proposal  | 50 points (6%)
-  Research Design           | 250 points (28%)
-  Book Review               | 200 points (22%)
-  Attendance/Participation  | 100 points (11%)
-  --------------------------------------------------------------
-  Total                     | 900 points (100%)
-  -------------------------- -----------------------------------
+| Assignment                | Points |
+| --- | --- |
+|  10 Discussion Papers      | 20 points each (200 points) (22%) |
+|  Discussion Leader         | 100 points (11%) |
+|  Research Design Proposal  | 50 points (6%) |
+|  Research Design           | 250 points (28%) |
+|  Book Review               | 200 points (22%) |
+|  Attendance/Participation  | 100 points (11%) |
+| --- | --- |
+|  Total                     | 900 points (100%) |
 
 There are 900 possible points for this course. Grades will be allocated
 based on your earned points and calculated as a percentage of 900.
