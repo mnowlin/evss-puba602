@@ -4,7 +4,7 @@ author: EVSS/PUBA 602 Public Policy
 date: Fall 2015
 ---
 
-__For a [pdf]({{site.url}}/evss-puba602/_notes/01-intro.pdf)__
+__For a [pdf]({{site.url}}/_notes/01-intro.pdf)__
 
 # What is Public Policy?
 
