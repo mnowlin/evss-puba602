@@ -10,9 +10,11 @@ __For a [pdf]({{site.url}}/evss-puba602/slides/01-intro.pdf)__
 
 ## Policymaking is Complex
 
-\begin{figure}[!htp]
+<!--\begin{figure}[!htp]
 \includegraphics[width=\textwidth]{complex.png}
-\end{figure}
+\end{figure}--> 
+
+![Complexity](complex.png)
 
 ##  Defining Public Policy
 
