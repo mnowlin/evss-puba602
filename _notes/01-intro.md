@@ -14,7 +14,7 @@ __For a [pdf]({{site.url}}/evss-puba602/slides/01-intro.pdf)__
 \includegraphics[width=\textwidth]{complex.png}
 \end{figure}--> 
 
-![Complexity](complex.png)
+![Complexity](complex.png =50x)
 
 ##  Defining Public Policy
 
