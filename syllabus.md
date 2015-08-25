@@ -9,9 +9,11 @@ category: syllabus
 layout: default
 ---
 
-# Course Description
+__For a syllabus [pdf]({{site.url}}/evss-puba/nowlin602.pdf)__
 
 __See the [course website](http://matthewcnowlin.com/evss-puba602/) for updates__
+
+# Course Description
 
 **EVSS**: This course seeks to develop a firm understanding of the
 public policy–making process in the United States. Students study policy
@@ -88,7 +90,7 @@ Birkland, Thomas A. 2011. _An Introduction to the Policy Process: Theories, Conc
 Paul Sabatier and Christopher Weible (eds). 2014. *Theories of the
 Policy Process*. 3rd Edition. Westview Press.
 
-Bertelli, Anthony Micheal. 2012. _The Political Economy of Public Sector Governance_. Cambridge. 
+Bertelli, Anthony Micheal. 2012.[ _The Political Economy of Public Sector Governance_.](http://www.amazon.com/Political-Economy-Public-Sector-Governance/dp/0521736641/ref=sr_1_1?ie=UTF8&qid=1440511201&sr=8-1&keywords=The+Political+Economy+of+Public+Sector+Governance) Cambridge. 
 
 
 Additional Readings 
@@ -126,7 +128,7 @@ discussion papers, being a discussion leader, a research design, a book review, 
 |  Book Review               | 200 points (22%) |
 |  Attendance/Participation  | 100 points (11%) |
 | --- | --- |
-|  Total                     | 900 points (100%) |
+|  __Total__                     | __900 points__ (100%) |
 
 
 _There are 900 possible points for this course. Grades will be allocated

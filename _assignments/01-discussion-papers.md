@@ -11,6 +11,8 @@ questions for the discussion readings in a way that shows your have read
 and understand the material. **These are due before class**, in the
 dropbox on [OAKS](https://lms.cofc.edu/).
 
+You should follow the template provide on [OAKS](https://lms.cofc.edu/).
+
 Here is the rubric that will be used:
 
 ![Grading Rubric for Discussion Papers](paper_rubric.png)
