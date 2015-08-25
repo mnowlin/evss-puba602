@@ -9,7 +9,7 @@ category: syllabus
 layout: default
 ---
 
-__For a syllabus [pdf]({{site.url}}/evss-puba/nowlin602.pdf)__
+__For a syllabus [pdf]({{site.url}}/evss-puba602/nowlin602.pdf)__
 
 __See the [course website](http://matthewcnowlin.com/evss-puba602/) for updates__
 
