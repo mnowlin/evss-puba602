@@ -4,7 +4,7 @@ author: EVSS/PUBA 602 Public Policy
 date: Fall 2015
 ---
 
-This lecture is an introduction to the course and an overview to how public policy is defined and studied by social scientists
+This lecture is an introduction to the course and an overview of how public policy is defined and studied by social scientists
 
 * Associated Readings
     * [Defining policy shows how messed up it seems](https://paulcairney.wordpress.com/2014/01/08/defining-policy-shows-how-messed-up-it-seems/)
