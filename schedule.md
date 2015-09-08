@@ -64,6 +64,7 @@ __Bertelli__: Bertelli, Anthony Micheal. 2012. _The Political Economy of Public 
 -  _Suggested Readings_:
     * [The Policy Cycle and its Stages](https://paulcairney.wordpress.com/2013/11/11/policy-concepts-in-1000-words-the-policy-cycle-and-its-stages/)
     * [Bounded Rationality and Incrementalism](https://paulcairney.wordpress.com/2013/11/11/policy-concepts-in-1000-words-bounded-rationality-and-incrementalism/)
+    * [UC-Denver Policy Process Research](http://www.ucdenver.edu/academics/colleges/SPA/researchandoutreach/Buechner%20Institute%20for%20Governance/Centers/WOPPR/Pages/WhatisPolicyProcessResearch.aspx)
 
 ---
 
@@ -104,6 +105,7 @@ __Bertelli__: Bertelli, Anthony Micheal. 2012. _The Political Economy of Public 
 
 -  _Suggested Readings_: 
     * [Rational Choice and the IAD](https://paulcairney.wordpress.com/2014/04/10/policy-concepts-in-1000-words-rational-choice-and-the-iad/)
+    * [UC-Denver IAD](http://www.ucdenver.edu/academics/colleges/SPA/researchandoutreach/Buechner%20Institute%20for%20Governance/Centers/WOPPR/IAD/Pages/default.aspx)
     * McGinnis, Michael D. 2011. [An Introduction to IAD and the Language
     of the Ostrom Workshop: A Simple Guide to a Complex Framework.](http://onlinelibrary.wiley.com/doi/10.1111/j.1541-0072.2010.00401.x/full)
     _Policy Studies Journal_ 39 (1): 169–83.
@@ -160,6 +162,7 @@ __Bertelli__: Bertelli, Anthony Micheal. 2012. _The Political Economy of Public 
 -  _Suggested Readings_:
     * [Networks, sub-government and communities](https://paulcairney.wordpress.com/2014/03/25/policy-concepts-in-1000-words-networks-sub-government-and-communities/)
     * [The Advocacy Coalition Framework](https://paulcairney.wordpress.com/2013/10/30/policy-concepts-in-1000-words-the-advocacy-coalition-framework/)
+    * [UC-Denver ACF](http://www.ucdenver.edu/academics/colleges/SPA/researchandoutreach/Buechner%20Institute%20for%20Governance/Centers/WOPPR/ACF/Pages/ACFOverview.aspx)
     * Weible, Christopher M., Paul A. Sabatier, and Kelly McQueen. 2009.
     [Themes and Variations: Taking Stock of the Advocacy Coalition Framework.](http://onlinelibrary.wiley.com/doi/10.1111/j.1541-0072.2008.00299.x/full) _Policy Studies Journal_ 37 (1): 121–140.
 
