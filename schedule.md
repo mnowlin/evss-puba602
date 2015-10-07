@@ -168,7 +168,11 @@ __Bertelli__: Bertelli, Anthony Micheal. 2012. _The Political Economy of Public 
 
 ---
 
-### October 6th: Punctuated Equilibrium 
+### October 6th: CLASS CANCELLED 
+
+---
+
+### October 13th: Punctuated Equilibrium 
 
 *  _Core Readings_: 
     * SW: Chap 3 by Baumgartner et al
@@ -192,7 +196,11 @@ __Bertelli__: Bertelli, Anthony Micheal. 2012. _The Political Economy of Public 
 
 ---
 
-### October 13th: Narrative Policy Framework 
+### October 20th: FALL BREAK No class 
+        
+---
+
+### October 27th: Narrative Policy Framework 
 
 *   _Core Readings_: 
     * SW: Chap 7 by McBeth et al
@@ -212,6 +220,8 @@ __Bertelli__: Bertelli, Anthony Micheal. 2012. _The Political Economy of Public 
 <span>***Discussion Paper Due***</span>\
 <span>***Discussion Leaders***</span>
 
+<span>***Research Design Proposal Due***</span>
+
 *   _Suggested Readings_:
     * [Critical Policy Studies and the Narrative Policy Framework](https://paulcairney.wordpress.com/2015/03/06/policy-concepts-in-1000-words-critical-policy-studies-and-the-narrative-policy-framework/)
     * Jones, Michael D., and Mark K. McBeth. 2010. [A Narrative Policy
@@ -220,11 +230,7 @@ __Bertelli__: Bertelli, Anthony Micheal. 2012. _The Political Economy of Public 
 
 ---
 
-### October 20th: FALL BREAK No class 
-        
----
-
-### October 27th: Policy Diffusion 
+### November 3rd: Policy Diffusion 
 
 *   _Core Readings_: 
     * SW: Chap 9, by Berry and Berry
@@ -250,7 +256,7 @@ __Bertelli__: Bertelli, Anthony Micheal. 2012. _The Political Economy of Public 
 
 ---
 
-### November 3rd: Policy Design and Social Construction 
+### November 10th: Policy Design and Social Construction 
 
 *   _Core Readings_: 
     * Birkland: Chap 8 
@@ -274,7 +280,7 @@ __Bertelli__: Bertelli, Anthony Micheal. 2012. _The Political Economy of Public 
 
 ---
 
-### November 10th: Policy Analysis and Evaluation
+### November 17th: Policy Analysis and Evaluation
 
 *   _Core Readings_: 
     * Smith and Larimer: Chap 5 on [OAKS](https://lms.cofc.edu/)
@@ -301,22 +307,13 @@ __Bertelli__: Bertelli, Anthony Micheal. 2012. _The Political Economy of Public 
    
 ---
 
-### November 17th: Policy Implementation and Governance I
+### November 24th: Policy Implementation and Governance
 
 *   _Core Readings_: 
     * Birkland: Chap 9
     * Bertelli: Chaps 1 and 2 
 
 __Book Review part 1 due__ 
-
----
-
-### November 24th: Policy Implementation and Governance II
-
-*   _Core Readings_: 
-    * Bertelli: Chaps 3--6 
-
-__Book Review part 2 due__ 
 
 ---
 
@@ -327,6 +324,11 @@ __Book Review part 2 due__
 ### December 1st: Conclusion 
 
 *   _Core Readings_: 
+    * Bertelli: Chaps 3--6 
+
+__Book Review part 2 due__ 
+
+*   _Discussion  Readings_ 
     * SW: Chap 11
     * Weible, Christopher M., Tanya Heikkila, Peter deLeon, and Paul A.
     Sabatier. 2012. [Understanding and Influencing the Policy Process.](http://link.springer.com/article/10.1007/s11077-011-9143-5)
@@ -334,3 +336,4 @@ __Book Review part 2 due__
 
 --- 
 
+### December 7th: RESEARCH DESIGN DUE IN DROPBOX ON [OAKS](https://lms.cofc.edu/)
